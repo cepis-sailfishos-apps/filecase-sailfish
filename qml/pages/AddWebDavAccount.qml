@@ -120,7 +120,7 @@ Page {
                 id: pass
                 width: parent.width
                 //placeholderText: qsTr("Password")
-                label: qsTr("Password")  
+                label: qsTr("Password")
                 enabled: !working
                 echoMode: TextInput.Password
                 inputMethodHints: Qt.ImhNoAutoUppercase
